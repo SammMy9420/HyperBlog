@@ -1,5 +1,9 @@
 body{
     text-align: center;
-    color: aqua;
+    color: #333;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: aqua
 }
